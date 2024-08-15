@@ -8,6 +8,10 @@
 # testing
 /coverage
 junit.xml
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
 
 # production
 /build
